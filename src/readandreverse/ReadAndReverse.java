@@ -21,7 +21,7 @@ public class ReadAndReverse {
         
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("Please enter a name: ");
+        System.out.print("Please enter a name: ");
         
         String name = sc.nextLine();
         
@@ -37,9 +37,11 @@ public class ReadAndReverse {
         for(int i=0; i< name.length() ; i++)
             System.out.println(nameInChar[i]);
         */
+        System.out.print("In reverse Now:");
         
         for(int i=nameInChar.length - 1 ; i >= 0 ; i--)
-            System.out.println(nameInChar[i]);
+            System.out.print(nameInChar[i]);
+         System.out.print("reverseds Now:");
         
     }
     
