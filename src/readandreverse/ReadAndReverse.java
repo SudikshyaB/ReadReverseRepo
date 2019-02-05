@@ -39,6 +39,7 @@ public class ReadAndReverse {
         for(int i=0; i< name.length() ; i++)
             System.out.println(nameInChar[i]);
         */
+        //changesss
         System.out.print("In reverse Now:");
         
         for(int i=nameInChar.length - 1 ; i >= 0 ; i--)
