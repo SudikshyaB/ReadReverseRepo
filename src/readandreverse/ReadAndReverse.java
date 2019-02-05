@@ -26,7 +26,7 @@ public class ReadAndReverse {
         String name = sc.nextLine();
         
        // System.out.println("You entered " + name);
-        
+        ///Change comment
         char[] nameInChar = new char[name.length()];
         
         // populate the arraty 
