@@ -18,7 +18,7 @@ public class ReadAndReverse {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        //hiiii
         Scanner sc = new Scanner(System.in);
         
         System.out.print("Please enter a name: ");
@@ -26,13 +26,15 @@ public class ReadAndReverse {
         String name = sc.nextLine();
         
        // System.out.println("You entered " + name);
-        //This ia change im adding
+        //This ia change im addin
+        ///Change comment
         char[] nameInChar = new char[name.length()];
         
         // populate the arraty 
         for(int i=0; i <= name.length()-1 ; i++ )
             nameInChar[i] = name.charAt(i);
         /*
+        //Default change
         // verify the array was populated properly
         for(int i=0; i< name.length() ; i++)
             System.out.println(nameInChar[i]);
