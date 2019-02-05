@@ -12,6 +12,7 @@ import java.util.Scanner;
  *
  * @author shaim
  */
+*Date is Feb.5th,2019
 public class ReadAndReverse {
 
     /**
