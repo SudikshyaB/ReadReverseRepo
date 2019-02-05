@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 
-//Devis campus  <--location
 
 package readandreverse;
 
@@ -14,7 +13,7 @@ import java.util.Scanner;
  *
  * @author shaim
  */
-///////Date is Feb.5th,2019
+//Date is Feb.5th,2019
 public class ReadAndReverse {
 
     /**
